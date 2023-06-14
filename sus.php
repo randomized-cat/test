@@ -1,6 +1,6 @@
 <?php
 // توکن ربات تلگرام شما
-$token = 'YOUR_BOT_TOKEN';
+$token = '6158917854:AAFyX5_AsJvik9OYEm67y2a9HeDZcLMiv7Y';
 
 // آدرس API تلگرام
 $apiUrl = 'https://api.telegram.org/bot' . $token . '/';
